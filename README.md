@@ -19,7 +19,7 @@ Program to implement the multivariate linear regression model for predicting the
 Developed by: Loknaath P
 RegisterNumber:  212223240080
 ```
-```
+```python
 import numpy as np
 import pandas as pd
 from sklearn.datasets import fetch_california_housing
